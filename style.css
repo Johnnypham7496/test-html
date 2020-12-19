@@ -64,8 +64,8 @@ ol {
     border-width: 5px;
     margin-left: 0px;
     margin-right: 0px;
-    border-left: 150px;
-    border-right: 150px;
+    border-left: 0px;
+    border-right: 0px;
 }
 
 h4 {
