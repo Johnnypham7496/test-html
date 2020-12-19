@@ -51,8 +51,8 @@ ul {
     border-width: 5px;
     margin-left: 0px;
     margin-right: 0px;
-    border-left: 30px;
-    border-right: 30px;
+    border-left: 60px;
+    border-right: 60px;
 }
 
 ol {
@@ -64,19 +64,24 @@ ol {
     border-width: 5px;
     margin-left: 0px;
     margin-right: 0px;
-    border-left: 30px;
-    border-right: 30px;
+    border-left: 60px;
+    border-right: 60px;
 }
 
 h4 {
     text-align: center;
+    font-size: 17px;
 }
 
 h5 {
-    text-align: center;
+    text-align: left;
     font-size: 17px;
 }
 
 td {
+    text-align: center;
+}
+
+a {
     text-align: center;
 }
