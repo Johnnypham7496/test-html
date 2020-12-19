@@ -53,8 +53,8 @@ ul {
     margin-right: 100px;
     border-left: solid;
     border-right: solid;
-    border-top: center;
-    border-bottom: center;
+    border-top: solid;
+    border-bottom: solid;
 }
     
 ol {
@@ -68,8 +68,8 @@ ol {
     margin-right: 100px;
     border-left: solid;
     border-right: solid;
-    border-top: center;
-    border-bottom: center;
+    border-top: solid;
+    border-bottom: solid;
 }
 
 h4 {
