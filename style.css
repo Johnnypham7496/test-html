@@ -49,6 +49,8 @@ ul {
     border-style: solid;
     margin-bottom: auto;
     border-width: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 ol {
@@ -58,4 +60,6 @@ ol {
     border-style: solid;
     margin-bottom: auto;
     border-width: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
