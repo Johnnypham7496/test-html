@@ -51,8 +51,8 @@ ul {
     border-width: 5px;
     margin-left: 60px;
     margin-right: 60px;
-    border-left: 60px;
-    border-right: 60px;
+    border-left: solid;
+    border-right: solid;
 }
 
 ol {
@@ -64,8 +64,8 @@ ol {
     border-width: 5px;
     margin-left: 60px;
     margin-right: 60px;
-    border-left: 60px;
-    border-right: 60px;
+    border-left: solid;
+    border-right: solid;
 }
 
 h4 {
