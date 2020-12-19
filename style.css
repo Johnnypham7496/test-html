@@ -49,3 +49,12 @@ ul {
     margin-bottom: auto;
     border-width: 5px;
 }
+
+head {
+    color: #efeee7;
+    background-color: #333333;
+    margin: 0;
+    text-align: center;
+    font-size: 45px;
+    text-decoration: underline;
+}
