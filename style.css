@@ -64,8 +64,8 @@ ol {
     border-width: 5px;
     margin-left: 0px;
     margin-right: 0px;
-    border-left: 60px;
-    border-right: 60px;
+    border-left: 150px;
+    border-right: 150px;
 }
 
 h4 {
@@ -74,7 +74,6 @@ h4 {
 }
 
 h5 {
-    text-align: left;
     font-size: 17px;
 }
 
