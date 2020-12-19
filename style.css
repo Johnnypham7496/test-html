@@ -49,8 +49,10 @@ ul {
     border-style: solid;
     margin-bottom: auto;
     border-width: 5px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-left: 30px;
+    border-right: 30px;
 }
 
 ol {
@@ -60,8 +62,10 @@ ol {
     border-style: solid;
     margin-bottom: auto;
     border-width: 5px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-left: 30px;
+    border-right: 30px;
 }
 
 h4 {
