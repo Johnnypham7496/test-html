@@ -56,6 +56,7 @@ ul {
     border-right: solid;
     border-top: solid;
     border-bottom: solid;
+    overflow: auto;
 }
     
 ol {
@@ -71,6 +72,7 @@ ol {
     border-right: solid;
     border-top: solid;
     border-bottom: solid;
+    overflow: auto;
 }
 
 h4 {
