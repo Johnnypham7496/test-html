@@ -44,14 +44,14 @@ p {
 }
 
 ul {
-    text-align: center;
+    text-align: left;
     font-size: 17px;
     list-style-position: inside;
     border-style: solid;
     margin-bottom: auto;
     border-width: 5px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 300px;
+    margin-right: 300px;
     border-left: solid;
     border-right: solid;
     border-top: solid;
@@ -59,14 +59,14 @@ ul {
 }
     
 ol {
-    text-align: center;
+    text-align: left;
     font-size: 17px;
     list-style-position: inside;
     border-style: solid;
     margin-bottom: auto;
     border-width: 5px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 300px;
+    margin-right: 300px;
     border-left: solid;
     border-right: solid;
     border-top: solid;
@@ -80,6 +80,7 @@ h4 {
 
 h5 {
     font-size: 17px;
+    text-align: center;
 }
 
 td {
@@ -88,4 +89,13 @@ td {
 
 a {
     text-align: center;
+}
+
+.link {
+    text-align: center;
+}
+
+#ytplayer {
+    display: block;
+    margin: 0 auto;
 }
